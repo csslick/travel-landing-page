@@ -121,6 +121,11 @@ header h1 {
   box-shadow: 0 28px 20px -20px rgba(0,0,0, 0.7);
 }
 
+#articles h3 {
+  font-size: 18px;
+  text-transform: uppercase;
+}
+
 #signup {
   text-align: center;
   padding: 50px 0;
